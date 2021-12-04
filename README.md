@@ -26,9 +26,5 @@ Requirements:
 Setup: 
 1. Open the folder in Android Studio as a project.
 2. Build and run the project using the android simulator.
-3. Once the app loads, do the following steps:
-	- Open the Device File Explorer.
-	- Goto data/data/[src location]/databases.
-	- Upload the 'ProductDB' file to this folder.
-	- Restart the app, to initialize the Database.
+
 
